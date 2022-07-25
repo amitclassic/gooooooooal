@@ -1,0 +1,23 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url("https://www.scotts.com/sites/g/files/oydgjc106/files/styles/scotts_asset_image_720_440/public/asset_images/compressed_Bentgrass.jpg?itok=y8WmaAoH");
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:dashed solid;
+	background:url("https://soccerprime.com/wp-content/uploads/2020/08/soccer-field.jpg");
+	border-color: rgb(49, 90, 22);
+	background-color:forestgreen;
+}
+
+
+#hd3{
+	display: inline-block;
+	color: rgb(47, 90, 22);
+	background-color: rgb(137, 179, 137);
+	font-family: fantasy;
+}
+
